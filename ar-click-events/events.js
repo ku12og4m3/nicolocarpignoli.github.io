@@ -13,6 +13,6 @@ AFRAME.registerComponent('markerhandler', {
                 aEntity.setAttribute('scale', scale);
             }
             */
-            window.location.href = 'https://www.google.com';
+            //window.location.href = 'https://www.google.com';
         });
 }});
